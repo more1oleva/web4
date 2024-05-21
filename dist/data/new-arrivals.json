@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "title": "Над пропастью во ржи",
+      "author": "Д.Д. Сэлинжер",
+      "image": "https://ostrovrusa.ru/wp-content/uploads/2019/04/dzherom_selindzher__nad_propastyu_vo_rzhi.jpeg",
+      "price": 320.0,
+      "currency": "₽",
+      "category": "Книги",
+      "isbn13": 9781101911815,
+      "description": "Очень интересная книга!"
+    },
+
+    {
+      "title": "Гарри Поттер",
+      "author": "Д.Роулинг",
+      "image": "https://catalog.detmir.st/media/-6K45RaWiRToT7BsyLhfYe2vXF_PKYl9aKN0BRuZPvQ=?preset=site_product_gallery_r1500",
+      "price": 500.0,
+      "currency": "₽",
+      "category": "Книги",
+      "isbn13": 9781101911815,
+      "description": "Очень интересная книга!"
+    },
+
+    {
+      "title": "Сказки",
+      "author": "Русские народные сказки",
+      "image": "https://aist-deti.ru/upload/iblock/238/kj3p2i3vzv20c7il20jxfdsnjn4l4pxo.jpg",
+      "price": 199.0,
+      "currency": "₽",
+      "category": "Книги",
+      "isbn13": 9780811223041,
+      "description": "Для детей!"
+    },
+
+    {
+      "title": "Преступление и наказание",
+      "author": "Ф.М.Достоевский",
+      "image": "https://bibliosfera.su/image/cache/catalog/img/2021/9785170906307-800x1000.jpg",
+      "price": 699.0,
+      "currency": "₽",
+      "category": "Книги",
+      "isbn13": 9780300209570,
+      "description": "Нестареющая классика"
+    }
+  ]
+}
